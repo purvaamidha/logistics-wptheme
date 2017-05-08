@@ -1,0 +1,32 @@
+[kc_row use_container="yes" _id="179835"][kc_column width="66.66%" _id="284684"][kc_google_maps random_id="796593" map_location="PGlmcmFtZSBzcmM9Imh0dHBzOi8vd3d3Lmdvb2dsZS5jb20vbWFwcy9lbWJlZD9wYj0hMW0xOCExbTEyITFtMyExZDMxNTIuNDM0MTcwODgxODM4MyEyZC0xMjIuNDc1MzAyOTg0NDYyMjchM2QzNy44MDMyOTgyMTgyOTA0MzYhMm0zITFmMCEyZjAhM2YwITNtMiExaTEwMjQhMmk3NjghNGYxMy4xITNtMyExbTIhMXMweDgwODU4NmU2MzAyNjE1YTElM0EweDg2YmQxMzAyNTE3NTdjMDAhMnNTdG9yZXkrQXZlJTJDK1NhbitGcmFuY2lzY28lMkMrQ0ErOTQxMjkhNWUwITNtMiExc2VuITJzITR2MTQ2MzAxNzE3NjgwNyIgd2lkdGg9IjYwMCIgaGVpZ2h0PSI0NTAiIGZyYW1lYm9yZGVyPSIwIiBzdHlsZT0iYm9yZGVyOjAiIGFsbG93ZnVsbHNjcmVlbj48L2lmcmFtZT4=" map_height="470" _id="74378"][/kc_column][kc_column width="33.33%" _id="806144" css_custom="{`kc-css`:{`any`:{`typography`:{`color|`:`#ffffff`},`background`:{`background|`:`eyJjb2xvciI6IiNmMjViMjIiLCJsaW5lYXJHcmFkaWVudCI6WyIiXSwiaW1hZ2UiOiJub25lIiwicG9zaXRpb24iOiIwJSAwJSIsInNpemUiOiJhdXRvIiwicmVwZWF0IjoicmVwZWF0IiwiYXR0YWNobWVudCI6InNjcm9sbCIsImFkdmFuY2VkIjowfQ==`},`box`:{`padding|`:`50px 40px 50px 40px`}}}}"][kc_column_text _id="553478" css_custom="{`kc-css`:{`any`:{`typography`:{`color|,p`:`#ffffff`}}}}" class="contact-us"]
+Head Office
+
+Add: 558, Sector 1, Vaishali, Ghaziabad, Uttar Pradesh, India
+
+Phone: +91- 9921888916
+
+Email: info@moverdeal.com
+
+[/kc_column_text][/kc_column][/kc_row][kc_row _id="267104"][kc_column width="12/12" _id="820607"][kc_spacing height="60px" _id="297747"][/kc_column][/kc_row][kc_row use_container="yes" _id="677865"][kc_column width="66.66%" _id="274414"][kc_column_text _id="994998"]
+Get in Touch
+
+[/kc_column_text][contact-form-7 id="10991"][/kc_column][kc_column width="33.33%" _id="666801"][kc_column_text _id="824326" css_custom="{`kc-css`:{`any`:{`box`:{`background|`:`eyJjb2xvciI6InRyYW5zcGFyZW50IiwibGluZWFyR3JhZGllbnQiOlsiIl0sImltYWdlIjoiJVNJVEVfVVJMJS93cC1jb250ZW50L3VwbG9hZHMvMjAxNC8wMy9iYWNrZ3JvdW5kLTEwLmpwZyIsInBvc2l0aW9uIjoiMCUgMCUiLCJzaXplIjoiYXV0byIsInJlcGVhdCI6Im5vLXJlcGVhdCIsImF0dGFjaG1lbnQiOiJzY3JvbGwiLCJhZHZhbmNlZCI6MX0=`,`padding|`:`30px inherit 20px 140px`}}}}" class="contact-call hidden-xs"]
+
+Please Make a Call For
+Sales Enquiries
+0120 4575087
+
+Please Contact on our support id
+
+support@movercart.com
+
+[/kc_column_text][kc_column_text _id="339133" class="contact-time"]
+Working Hours
+
+Monday to Friday: 10am to 7pm
+
+Saturday: 10am to 4pm
+
+Sunday: 12am t0 4pm
+
+[/kc_column_text][/kc_column][/kc_row][kc_row _id="594427"][kc_column width="12/12" _id="668473"][kc_spacing height="75px" _id="807673"][/kc_column][/kc_row]

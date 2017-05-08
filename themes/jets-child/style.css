@@ -1,0 +1,21 @@
+/*
+Theme Name: Jets Child 
+Theme URI: 
+Description: Child theme for jets
+Author: 
+Author URI: 
+Template: jets
+*/
+/* DO YOUR STUFF AFTER THIS !!  */
+@import url("../jets/style.css");
+
+div#opal-logo 
+{
+    width: 54%;
+}
+.pr-10 {
+	 padding-right:10px;
+}
+ .footer-icon {
+	 font-size: 18px !important;
+}

@@ -1,0 +1,769 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-03-21 03:37+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: install.php:36 install.php:37
+msgid "Request Quote"
+msgstr ""
+
+#: opalrequestquote.php:128
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: inc/ajax-functions.php:26
+msgid ""
+"Send Mail is Failed! Please check email address in setting backend is wrong!"
+msgstr ""
+
+#: inc/ajax-functions.php:32
+msgid "Please enter content for some the field bellow!"
+msgstr ""
+
+#: inc/class-opalrequestquote-roles.php:49
+msgid "Opal Requestquote Manager"
+msgstr ""
+
+#: inc/class-opalrequestquote-roles.php:81
+msgid "Opal Requestquote Doctor"
+msgstr ""
+
+#: inc/class-opalrequestquote-shortcodes.php:31
+msgid "Request Quote Short"
+msgstr ""
+
+#: inc/class-opalrequestquote-shortcodes.php:32
+#: inc/admin/register-settings.php:204
+msgid "Request Quote Page"
+msgstr ""
+
+#: inc/class-opalrequestquote.php:69
+msgid "#No."
+msgstr ""
+
+#: inc/mixes-functions.php:95
+msgctxt "Order status"
+msgid "Closed"
+msgstr ""
+
+#: inc/mixes-functions.php:100
+#, php-format
+msgid "Closed <span class=\"count\">(%s)</span>"
+msgid_plural "Closed <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/mixes-functions.php:105
+msgctxt "Order status"
+msgid "Pending"
+msgstr ""
+
+#: inc/mixes-functions.php:110
+#, php-format
+msgid "Pending <span class=\"count\">(%s)</span>"
+msgid_plural "Pending <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/mixes-functions.php:115
+msgctxt "Order status"
+msgid "Confirmed"
+msgstr ""
+
+#: inc/mixes-functions.php:120
+#, php-format
+msgid "Confirmed <span class=\"count\">(%s)</span>"
+msgid_plural "Confirmed <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/mixes-functions.php:171
+msgid "US Dollars (&#36;)"
+msgstr ""
+
+#: inc/mixes-functions.php:172
+msgid "Euros (&euro;)"
+msgstr ""
+
+#: inc/mixes-functions.php:173
+msgid "Pounds Sterling (&pound;)"
+msgstr ""
+
+#: inc/mixes-functions.php:174
+msgid "Australian Dollars (&#36;)"
+msgstr ""
+
+#: inc/mixes-functions.php:175
+msgid "Brazilian Real (R&#36;)"
+msgstr ""
+
+#: inc/mixes-functions.php:176
+msgid "Canadian Dollars (&#36;)"
+msgstr ""
+
+#: inc/mixes-functions.php:177
+msgid "Czech Koruna"
+msgstr ""
+
+#: inc/mixes-functions.php:178
+msgid "Danish Krone"
+msgstr ""
+
+#: inc/mixes-functions.php:179
+msgid "Hong Kong Dollar (&#36;)"
+msgstr ""
+
+#: inc/mixes-functions.php:180
+msgid "Hungarian Forint"
+msgstr ""
+
+#: inc/mixes-functions.php:181
+msgid "Israeli Shekel (&#8362;)"
+msgstr ""
+
+#: inc/mixes-functions.php:182
+msgid "Japanese Yen (&yen;)"
+msgstr ""
+
+#: inc/mixes-functions.php:183
+msgid "Malaysian Ringgits"
+msgstr ""
+
+#: inc/mixes-functions.php:184
+msgid "Mexican Peso (&#36;)"
+msgstr ""
+
+#: inc/mixes-functions.php:185
+msgid "New Zealand Dollar (&#36;)"
+msgstr ""
+
+#: inc/mixes-functions.php:186
+msgid "Norwegian Krone (Kr.)"
+msgstr ""
+
+#: inc/mixes-functions.php:187
+msgid "Philippine Pesos"
+msgstr ""
+
+#: inc/mixes-functions.php:188
+msgid "Polish Zloty"
+msgstr ""
+
+#: inc/mixes-functions.php:189
+msgid "Singapore Dollar (&#36;)"
+msgstr ""
+
+#: inc/mixes-functions.php:190
+msgid "Swedish Krona"
+msgstr ""
+
+#: inc/mixes-functions.php:191
+msgid "Swiss Franc"
+msgstr ""
+
+#: inc/mixes-functions.php:192
+msgid "Taiwan New Dollars"
+msgstr ""
+
+#: inc/mixes-functions.php:193
+msgid "Thai Baht (&#3647;)"
+msgstr ""
+
+#: inc/mixes-functions.php:194
+msgid "Indian Rupee (&#8377;)"
+msgstr ""
+
+#: inc/mixes-functions.php:195
+msgid "Turkish Lira (&#8378;)"
+msgstr ""
+
+#: inc/mixes-functions.php:196
+msgid "Iranian Rial (&#65020;)"
+msgstr ""
+
+#: inc/mixes-functions.php:197
+msgid "Russian Rubles"
+msgstr ""
+
+#: templates/content-data-none.php:2
+msgid ""
+"data not yet available please insert or select configuration in the backend."
+msgstr ""
+
+#: templates/content-field-bedroom.php:9 templates/content-field-bedroom.php:20
+msgid "Bedrooms"
+msgstr ""
+
+#: templates/content-requestquote-layout1.php:27
+#: templates/content-requestquote-layout2.php:27
+#: templates/content-requestquote-layout3.php:22
+msgid "Moving from"
+msgstr ""
+
+#: templates/content-requestquote-layout1.php:30
+#: templates/content-requestquote-layout2.php:30
+#: templates/content-requestquote-layout3.php:25
+msgid "Moving to"
+msgstr ""
+
+#: templates/content-requestquote-layout1.php:33
+#: templates/content-requestquote-layout2.php:33
+#: templates/content-requestquote-layout3.php:28
+msgid "When"
+msgstr ""
+
+#: templates/content-requestquote-layout1.php:37
+#: templates/content-requestquote-layout2.php:37
+#: templates/content-requestquote-layout3.php:32
+msgid "Residence Size"
+msgstr ""
+
+#: templates/content-requestquote-layout1.php:49
+#: templates/content-requestquote-layout2.php:49
+#: templates/content-requestquote-layout3.php:44
+msgid "Show My Quote"
+msgstr ""
+
+#: inc/admin/register-settings.php:70 inc/admin/register-settings.php:70
+msgid "Settings"
+msgstr ""
+
+#: inc/admin/register-settings.php:93
+msgid "General"
+msgstr ""
+
+#: inc/admin/register-settings.php:94
+msgid "RequestQuote Email"
+msgstr ""
+
+#: inc/admin/register-settings.php:95
+msgid "RequestQuote Status"
+msgstr ""
+
+#: inc/admin/register-settings.php:99
+msgid "Add-ons"
+msgstr ""
+
+#: inc/admin/register-settings.php:103
+msgid "Licenses"
+msgstr ""
+
+#: inc/admin/register-settings.php:191
+msgid "General Settings"
+msgstr ""
+
+#: inc/admin/register-settings.php:196
+msgid "View Option Settings"
+msgstr ""
+
+#: inc/admin/register-settings.php:205
+msgid ""
+"This is the request quote page. The <code>[opal_requestquote_page]</code> "
+"shortcode should be on this page."
+msgstr ""
+
+#: inc/admin/register-settings.php:232
+msgid "Opalrequestquote Email Settings"
+msgstr ""
+
+#: inc/admin/register-settings.php:236
+msgid "Email Settings"
+msgstr ""
+
+#: inc/admin/register-settings.php:243
+msgid "From Name"
+msgstr ""
+
+#: inc/admin/register-settings.php:244
+msgid ""
+"The name donation receipts are said to come from. This should probably be "
+"your site or shop name."
+msgstr ""
+
+#: inc/admin/register-settings.php:250
+msgid "From Email"
+msgstr ""
+
+#: inc/admin/register-settings.php:251
+msgid ""
+"Email to send donation receipts from. This will act as the \"from\" and "
+"\"reply-to\" address."
+msgstr ""
+
+#: inc/admin/register-settings.php:257
+msgid "Success Message"
+msgstr ""
+
+#: inc/admin/register-settings.php:259
+msgid "Enter the message to display when a requestquote request is made."
+msgstr ""
+
+#: inc/admin/register-settings.php:264
+msgid "Email Templates (Template Tags)"
+msgstr ""
+
+#: inc/admin/register-settings.php:270
+msgid "Email Settings (Admin Notification Email)"
+msgstr ""
+
+#: inc/admin/register-settings.php:276
+msgid "Active Email"
+msgstr ""
+
+#: inc/admin/register-settings.php:277
+msgid "Do you want to activate this e-mail template?"
+msgstr ""
+
+#: inc/admin/register-settings.php:280
+msgid "Yes"
+msgstr ""
+
+#: inc/admin/register-settings.php:280
+msgid "No"
+msgstr ""
+
+#: inc/admin/register-settings.php:286 inc/admin/register-settings.php:324
+#: inc/admin/register-settings.php:366 inc/admin/register-settings.php:403
+msgid "Email Subject"
+msgstr ""
+
+#: inc/admin/register-settings.php:288
+msgid "The email subject for admin notifications."
+msgstr ""
+
+#: inc/admin/register-settings.php:298 inc/admin/register-settings.php:335
+#: inc/admin/register-settings.php:377 inc/admin/register-settings.php:414
+msgid "Email Body"
+msgstr ""
+
+#: inc/admin/register-settings.php:300
+msgid ""
+"Enter the email an admin should receive when an initial request quote is "
+"made."
+msgstr ""
+
+#: inc/admin/register-settings.php:317
+msgid "Email Settings (New Request Email)"
+msgstr ""
+
+#: inc/admin/register-settings.php:326
+msgid ""
+"The email subject a user should receive when they make an initial "
+"requestquote request."
+msgstr ""
+
+#: inc/admin/register-settings.php:337
+msgid ""
+"Enter the email a user should receive when they make an initial requestquote "
+"request."
+msgstr ""
+
+#: inc/admin/register-settings.php:358
+msgid "Email Settings (Confirmed Email)"
+msgstr ""
+
+#: inc/admin/register-settings.php:368
+msgid ""
+"The email subject a user should receive when their request quote has been "
+"confirmed."
+msgstr ""
+
+#: inc/admin/register-settings.php:379
+msgid ""
+"Enter the email a user should receive when their request quote has been "
+"confirmed."
+msgstr ""
+
+#: inc/admin/register-settings.php:395
+msgid "Email Settings (Rejected Email)"
+msgstr ""
+
+#: inc/admin/register-settings.php:405
+msgid ""
+"The email subject a user should receive when their request quote has been "
+"rejected."
+msgstr ""
+
+#: inc/admin/register-settings.php:416
+msgid ""
+"Enter the email a user should receive when their request quote has been "
+"rejected."
+msgstr ""
+
+#: inc/admin/register-settings.php:435
+msgid "Status Settings"
+msgstr ""
+
+#: inc/admin/register-settings.php:452
+#, php-format
+msgid "Background Color %s status"
+msgstr ""
+
+#: inc/admin/register-settings.php:458
+#, php-format
+msgid "Text Color %s status"
+msgstr ""
+
+#: inc/admin/register-settings.php:498
+msgid "Settings updated."
+msgstr ""
+
+#: inc/admin/register-settings.php:721
+msgid "Global Default"
+msgstr ""
+
+#: inc/admin/register-settings.php:811
+msgid "Save Settings"
+msgstr ""
+
+#: inc/admin/register-settings.php:849
+msgid "Deactivate License"
+msgstr ""
+
+#: inc/admin/register-settings.php:886
+#, php-format
+msgid ""
+"API keys allow users to use the <a href=\"%s\">Opalrequestquote REST API</a> "
+"to retrieve donation data in JSON or XML for external applications or "
+"devices, such as <a href=\"%s\">Zapier</a>."
+msgstr ""
+
+#: inc/post-types/class-posttype-requestquotes.php:51
+#: inc/post-types/class-posttype-requestquotes.php:52
+#: inc/post-types/class-posttype-requestquotes.php:57
+#: inc/post-types/class-posttype-requestquotes.php:63
+msgid "RequestQuote"
+msgstr ""
+
+#: inc/post-types/class-posttype-requestquotes.php:53
+#: inc/post-types/class-posttype-requestquotes.php:54
+msgid "Add New RequestQuote"
+msgstr ""
+
+#: inc/post-types/class-posttype-requestquotes.php:55
+msgid "Edit RequestQuote"
+msgstr ""
+
+#: inc/post-types/class-posttype-requestquotes.php:56
+msgid "New RequestQuote"
+msgstr ""
+
+#: inc/post-types/class-posttype-requestquotes.php:58
+msgid "View RequestQuote"
+msgstr ""
+
+#: inc/post-types/class-posttype-requestquotes.php:59
+msgid "Search RequestQuote"
+msgstr ""
+
+#: inc/post-types/class-posttype-requestquotes.php:60
+msgid "No RequestQuote found"
+msgstr ""
+
+#: inc/post-types/class-posttype-requestquotes.php:61
+msgid "No RequestQuote found in Trash"
+msgstr ""
+
+#: inc/post-types/class-posttype-requestquotes.php:97
+msgid "Name"
+msgstr ""
+
+#: inc/post-types/class-posttype-requestquotes.php:98
+#: inc/post-types/class-posttype-requestquotes.php:230
+msgid "Email"
+msgstr ""
+
+#: inc/post-types/class-posttype-requestquotes.php:99
+msgid "Phone"
+msgstr ""
+
+#: inc/post-types/class-posttype-requestquotes.php:100
+msgid "Status"
+msgstr ""
+
+#: inc/post-types/class-posttype-requestquotes.php:151
+msgid "RequestQuote Management"
+msgstr ""
+
+#: inc/post-types/class-posttype-requestquotes.php:171
+#: inc/post-types/class-posttype-requestquotes.php:177
+#: templates/shortcodes/requestquote-page.php:12
+msgid "Moving From"
+msgstr ""
+
+#: inc/post-types/class-posttype-requestquotes.php:173
+#: inc/post-types/class-posttype-requestquotes.php:179
+msgid "It's auto get value on input search above! you can edit it"
+msgstr ""
+
+#: inc/post-types/class-posttype-requestquotes.php:187
+#: templates/shortcodes/requestquote-page.php:50
+msgid ""
+"The directions which are calculated on estimated driving distance and the "
+"unit is automatic!"
+msgstr ""
+
+#: inc/post-types/class-posttype-requestquotes.php:197
+#: templates/shortcodes/requestquote-page.php:20
+msgid "Moving On"
+msgstr ""
+
+#: inc/post-types/class-posttype-requestquotes.php:203
+#: inc/post-types/class-posttype-types.php:37
+#: inc/post-types/class-posttype-types.php:38
+#: inc/post-types/class-posttype-types.php:43
+#: inc/post-types/class-posttype-types.php:49
+msgid "Types"
+msgstr ""
+
+#: inc/post-types/class-posttype-requestquotes.php:212
+#: templates/shortcodes/requestquote-page.php:62
+msgid "First Name"
+msgstr ""
+
+#: inc/post-types/class-posttype-requestquotes.php:218
+#: templates/shortcodes/requestquote-page.php:64
+msgid "Last Name"
+msgstr ""
+
+#: inc/post-types/class-posttype-requestquotes.php:224
+msgid "Phone Number"
+msgstr ""
+
+#: inc/post-types/class-posttype-requestquotes.php:233
+msgid "Please Enter Your Email"
+msgstr ""
+
+#: inc/post-types/class-posttype-requestquotes.php:238
+#: templates/shortcodes/requestquote-page.php:75
+msgid "Additional comments"
+msgstr ""
+
+#: inc/post-types/class-posttype-requestquotes.php:256
+msgid "Details"
+msgstr ""
+
+#: inc/post-types/class-posttype-types.php:39
+#: inc/post-types/class-posttype-types.php:40
+msgid "Add New Types"
+msgstr ""
+
+#: inc/post-types/class-posttype-types.php:41
+msgid "Edit Types"
+msgstr ""
+
+#: inc/post-types/class-posttype-types.php:42
+msgid "New Types"
+msgstr ""
+
+#: inc/post-types/class-posttype-types.php:44
+msgid "View Types"
+msgstr ""
+
+#: inc/post-types/class-posttype-types.php:45
+msgid "Search Types"
+msgstr ""
+
+#: inc/post-types/class-posttype-types.php:46
+msgid "No Types found"
+msgstr ""
+
+#: inc/post-types/class-posttype-types.php:47
+msgid "No Types found in Trash"
+msgstr ""
+
+#: inc/post-types/class-posttype-types.php:80
+msgid "Types Management"
+msgstr ""
+
+#: inc/post-types/class-posttype-types.php:102
+msgid "Content"
+msgstr ""
+
+#: inc/post-types/class-posttype-types.php:107
+msgid "Value"
+msgstr ""
+
+#: inc/post-types/class-posttype-types.php:113
+msgid "Bedroom {#}"
+msgstr ""
+
+#: inc/post-types/class-posttype-types.php:114
+msgid "Add Another Entry"
+msgstr ""
+
+#: inc/post-types/class-posttype-types.php:115
+msgid "Remove Entry"
+msgstr ""
+
+#: templates/shortcodes/requestquote-page.php:7
+msgid "Move Information"
+msgstr ""
+
+#: templates/shortcodes/requestquote-page.php:11
+#: templates/shortcodes/requestquote-page.php:19
+msgid "Where Are You Moving?"
+msgstr ""
+
+#: templates/shortcodes/requestquote-page.php:14
+msgid "To"
+msgstr ""
+
+#: templates/shortcodes/requestquote-page.php:25
+msgid "What Size is Your Home?"
+msgstr ""
+
+#: templates/shortcodes/requestquote-page.php:26
+msgid "Type"
+msgstr ""
+
+#: templates/shortcodes/requestquote-page.php:28
+msgid "Select Type"
+msgstr ""
+
+#: templates/shortcodes/requestquote-page.php:57
+msgid "Contact Information"
+msgstr ""
+
+#: templates/shortcodes/requestquote-page.php:59
+msgid ""
+"Please provide your information so a representative can contact you for an "
+"in-home estimate."
+msgstr ""
+
+#: templates/shortcodes/requestquote-page.php:68
+msgid "Phone number"
+msgstr ""
+
+#: templates/shortcodes/requestquote-page.php:70
+msgid "Email address"
+msgstr ""
+
+#: templates/shortcodes/requestquote-page.php:82
+msgid "Get Instant Quote"
+msgstr ""
+
+#: inc/admin/metaboxes/details.php:42
+msgid "Quote status:"
+msgstr ""
+
+#: inc/admin/metaboxes/details.php:47
+msgctxt "Quote creation"
+msgid "Creating..."
+msgstr ""
+
+#: inc/admin/metaboxes/details.php:51
+msgid "Current state:"
+msgstr ""
+
+#: inc/admin/metaboxes/details.php:72
+#, php-format
+msgid "Save %s"
+msgstr ""
+
+#: inc/admin/metaboxes/details.php:72
+#, php-format
+msgid "Save/update the %s"
+msgstr ""
+
+#: inc/vendors/kingcomposer/elements.php:13
+msgid "Request Quote Short "
+msgstr ""
+
+#: inc/vendors/kingcomposer/elements.php:16
+msgid "Elements"
+msgstr ""
+
+#: inc/vendors/kingcomposer/elements.php:20
+msgid "Title"
+msgstr ""
+
+#: inc/vendors/kingcomposer/elements.php:22
+msgid "The title of the request quote."
+msgstr ""
+
+#: inc/vendors/kingcomposer/elements.php:23
+msgid "Requestquote a Form"
+msgstr ""
+
+#: inc/vendors/kingcomposer/elements.php:29
+#: inc/vendors/kingcomposer/elements.php:37
+msgid "Description"
+msgstr ""
+
+#: inc/vendors/kingcomposer/elements.php:31
+#: inc/vendors/kingcomposer/elements.php:39
+msgid "The text description for your page."
+msgstr ""
+
+#: inc/vendors/kingcomposer/elements.php:42
+msgid "Layout 1 Vertical"
+msgstr ""
+
+#: inc/vendors/kingcomposer/elements.php:43
+msgid "Layout 2 Horizontal"
+msgstr ""
+
+#: inc/vendors/kingcomposer/elements.php:44
+msgid "Layout 3 Horizontal2"
+msgstr ""
+
+#: inc/class-opalrequestquote-scripts.php:96
+msgid "Cancel"
+msgstr ""
+
+#: inc/class-opalrequestquote-scripts.php:97
+msgid "Current Step:"
+msgstr ""
+
+#: inc/class-opalrequestquote-scripts.php:98
+msgid "Pagination"
+msgstr ""
+
+#: inc/class-opalrequestquote-scripts.php:99
+msgid "Finish"
+msgstr ""
+
+#: inc/class-opalrequestquote-scripts.php:100
+msgid "Next"
+msgstr ""
+
+#: inc/class-opalrequestquote-scripts.php:101
+msgid "Previous"
+msgstr ""
+
+#: inc/class-opalrequestquote-scripts.php:102
+msgid "Loading ..."
+msgstr ""
+
+#. Name of the plugin
+msgid "Opal Requestquote"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Create and maintain modern online menus for almost any kind of requestquote."
+msgstr ""
+
+#. URI of the plugin
+msgid "http://www.wpopal.com/opalrequestquote/"
+msgstr ""
+
+#. Author of the plugin
+msgid "WPOPAL"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://www.wpopal.com"
+msgstr ""

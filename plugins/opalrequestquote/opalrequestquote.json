@@ -1,0 +1,22 @@
+{
+    "name" : "Opal Requestquote For Themes",
+    "slug" : "opalrequestquote",
+    "homepage" : "http://wpopal.com/",
+    "download_url" : "http://www.wpopal.com/thememods/opalrequestquote.zip",
+    
+    "version" : "1.0.2",
+    "requires" : "4.3",
+    "tested" : "4.7.3",
+    "last_updated" : "2017-03-24 17:00:00",
+    "upgrade_notice" : "Here's why you should upgrade...",
+    
+    "author" : "WPOPAL",
+    "author_homepage" : "http://wpopal.com/",
+    
+    "sections" : {
+        "description" : "Create and maintain modern online menus for almost any kind of requestquote.",
+        "installation" : "Upload or install by notice required the Opal Requestquote For Themes plugin to your site, Activate it.",
+        "changelog" : " Changelog. <h4>1.0.2</h4><p><em>Release Date - 24 March 2017</em><ul><li>Update function translate text form Request Quote</li></ul><h4>1.0.1</h4><p><em>Release Date - 21 March 2017</em><ul><li>Update language file</li><li>Add function check update theme</li><li>Fix some bug</li></ul><h4>1.0.0</h4><p><em>Release Date - 21 November 2016</em>"
+    }
+    
+}

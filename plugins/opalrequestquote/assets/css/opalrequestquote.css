@@ -1,0 +1,121 @@
+/**
+* **************************************************
+* General Styles
+* **************************************************
+**/
+
+#opal-masthead .header-main {
+}
+.white-popup{
+  background: #fff none repeat scroll 0 0;
+  margin: 20px auto;
+  max-width: 500px;
+  padding: 20px;
+  position: relative;
+  width: auto;
+}
+
+.requestquote-form label {
+  position: relative;
+  display: inline;
+}
+.requestquote-form label {
+    top:  45px;
+    color: #f55f5f;
+    font-size: 12px;
+    height: auto;
+    line-height: 32px;
+    position: absolute;
+    text-align: center;
+    visibility: visible;
+    z-index: 999;
+}
+
+.requestquote-form-v2 input, button, select, textarea {
+
+}
+.requestquote-form-v2 .error{
+  color: red;
+}
+
+/**
+* **************************************************
+* Request Quote Styles
+* **************************************************
+**/
+.wizard > .content {
+  min-height: 45em!important;
+}
+#directions_map{
+  margin: 15px 0 15px 0;
+  height: 350px;
+}
+/*
+* Short Form Home Page
+*/
+.requestquote-form .fleft{
+  float: left;
+}
+.requestquote-form .txtcenter{
+  text-align: center;
+}
+/*
+* Css for Page 
+*/
+.directions-message{
+  color: red;
+}
+<?php echo ; ?>
+
+.requestquote-form .form-group label {
+  position: relative;
+  display: inline;
+}
+.requestquote-form .form-group label {
+  background: #ff141c none repeat scroll 0 0;
+  border-radius: 6px;
+  box-shadow: 0 0 5px #800000;
+  color: #ffffff;
+  font-size: 10px;
+  height: auto;
+  left: 50%;
+  margin-left: -76px;
+  opacity: 0.6;
+  padding: 5px;
+  position: absolute;
+  text-align: left;
+  visibility: visible;
+  width: 80%;
+  z-index: 999;
+}
+.requestquote-form .form-group label:after {
+  content: '';
+  position: absolute;
+  bottom: 100%;
+  left: 50%;
+  margin-left: -8px;
+  width: 0; height: 0;
+  border-bottom: 8px solid #FF141C;
+  border-right: 8px solid transparent;
+  border-left: 8px solid transparent;
+}
+
+.bedroom-loading{
+  text-align: center;
+  margin: auto;
+  margin-top: 20px; 
+}
+.loading {
+  display:    block !important;
+  position:   fixed;
+  z-index:    1000;
+  top:        0;
+  left:       0;
+  height:     100%;
+  width:      100%;
+  background: rgba( 255, 255, 255, .8 )
+              url('../img/bx_loader.gif')
+              50% 50%
+              no-repeat;
+}
+

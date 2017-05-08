@@ -1,0 +1,64 @@
+
+/**************************************banner****************************/
+
+
+.banner-landing {
+  background: url("header-bg.jpg") center top no-repeat;
+  text-align: center;
+  padding: 100px 0 135px;
+  min-height: 660px;
+  position: relative;
+}
+.logo {
+  text-align: center;
+  display: inline-block;
+  margin-bottom: 70px;
+}
+.img-responsive {
+    display: block;
+    width: 300px;
+    height: auto;
+}
+.landing-heading {
+    font-size: 60px;
+    color: white;
+    text-transform: none;
+    margin: 0 0 30px;
+    letter-spacing: -5px;
+    font-weight: 600;
+}
+.landing-dic {
+    font-size: 30px;
+    color: #fff;
+    text-transform: uppercase;
+    margin: 0;
+    letter-spacing: 5px;
+    margin-bottom: 90px;
+}
+.view-homepage {
+  background: #00bed3;
+  border: 2px solid #00bed3;
+  border-radius: 50px;
+  color: white;
+  padding: 13px 33px;
+  font-size: 18px;
+  margin-right: 25px;
+}
+.view-homepage:hover {
+    background: #028694;
+    border-color: #028694;
+}
+.plan-move {
+  border: 2px solid white;
+  border-radius: 50px;
+  color: white;
+  padding: 13px 33px;
+  font-size: 18px;
+  background: 0;
+  margin-left: 25px;
+}
+.plan-move:hover {
+    color: #79ff00;
+    border-color: #79ff00;
+    background: 0;
+}

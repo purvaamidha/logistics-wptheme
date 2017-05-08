@@ -1,0 +1,986 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-09-28 10:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#. Name of the template
+msgid "404 Page"
+msgstr ""
+
+#: 404.php:27
+msgid "Oops!..."
+msgstr ""
+
+#: 404.php:30
+msgid "Sorry. This Page Does Not Exits."
+msgstr ""
+
+#: 404.php:32
+msgid "The requested page cannot be found"
+msgstr ""
+
+#: 404.php:33
+msgid ""
+"Can not find what you need? Take a moment and do a search below or start "
+"from our"
+msgstr ""
+
+#: 404.php:34
+msgid "homepage."
+msgstr ""
+
+#: author.php:40
+msgid "All posts by %s"
+msgstr ""
+
+#: category.php:33
+msgid "Category Archives: %s"
+msgstr ""
+
+#: comments.php:21
+msgid "0 Comment"
+msgstr ""
+
+#: comments.php:21 content-aside.php:42 content-audio.php:54 
+#: content-blog.php:32 content-blogcarousel.php:49 content-bloggrid.php:22 
+#: content-bloglist.php:42 content-gallery.php:66 content-image.php:44 
+#: content-link.php:56 content-quote.php:47 content-video.php:52 content.php:39
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:21 content-aside.php:42 content-audio.php:54 
+#: content-blog.php:32 content-blogcarousel.php:49 content-bloggrid.php:22 
+#: content-bloglist.php:42 content-gallery.php:66 content-image.php:44 
+#: content-link.php:56 content-quote.php:47 content-video.php:52 content.php:39
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:34
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:35
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:40
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:48
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:50
+msgid "Comment:"
+msgstr ""
+
+#: comments.php:57
+msgid "Name:"
+msgstr ""
+
+#: comments.php:61
+msgid "Email:"
+msgstr ""
+
+#: comments.php:65
+msgid "Website:"
+msgstr ""
+
+#: comments.php:69
+msgid "Post Comment"
+msgstr ""
+
+#: comments.php:70
+msgid "Your email address will not be published."
+msgstr ""
+
+#: content-aside.php:17 content-audio.php:29 content-blogcarousel.php:26 
+#: content-featured-post.php:28 content-gallery.php:41 content-link.php:31 
+#: content-quote.php:22 content-video.php:27
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ""
+
+#: content-aside.php:39 content-audio.php:51 content-bloglist.php:39 
+#: content-gallery.php:63 content-image.php:41 content-link.php:53 
+#: content-quote.php:44 content-video.php:49 content.php:36
+msgid "by "
+msgstr ""
+
+#: content-aside.php:42 content-audio.php:54 content-blog.php:32 
+#: content-blogcarousel.php:49 content-bloggrid.php:22 content-bloglist.php:42 
+#: content-gallery.php:66 content-image.php:44 content-link.php:56 
+#: content-quote.php:47 content-video.php:52 content.php:39
+msgid "0 comment"
+msgstr ""
+
+#: content-aside.php:45 content-audio.php:57 content-bloglist.php:45 
+#: content-gallery.php:69 content-image.php:47 content-link.php:59 
+#: content-page.php:22 content-quote.php:50 content-video.php:55 content.php:42 
+#: image.php:34 page-templates/contributors.php:29
+msgid "Edit"
+msgstr ""
+
+#. translators: %s: Name of current post
+#. translators: %s: Name of current post
+#. translators: %s: Name of current post
+#. translators: %s: Name of current post
+#. translators: %s: Name of current post
+#. translators: %s: Name of current post
+#. translators: %s: Name of current post
+#. translators: %s: Name of current post
+#. translators: %s: Name of current post
+#. translators: %s: Name of current post
+#: content-aside.php:53 content-audio.php:66 content-bloglist.php:69 
+#: content-gallery.php:78 content-image.php:56 content-link.php:68 
+#: content-quote.php:59 content-video.php:64 content.php:56 
+#: inc/template-tags.php:222
+msgid "Continue reading %s"
+msgstr ""
+
+#: content-aside.php:58 content-audio.php:74 content-bloglist.php:77 
+#: content-gallery.php:86 content-image.php:64 content-link.php:76 
+#: content-page.php:16 content-quote.php:67 content-video.php:72 content.php:64 
+#: image.php:54
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: content-blogcarousel.php:45
+msgid "Read More"
+msgstr ""
+
+#: content-none.php:12
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:18
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:22
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:27
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: functions.php:83
+msgid "Main menu"
+msgstr ""
+
+#: functions.php:84
+msgid "Menu in left sidebar"
+msgstr ""
+
+#: functions.php:85
+msgid "Topbar Menu"
+msgstr ""
+
+#: functions.php:178
+msgid "MetaBox"
+msgstr ""
+
+#: functions.php:184
+msgid "WooCommerce"
+msgstr ""
+
+#: functions.php:191
+msgid "MailChimp"
+msgstr ""
+
+#: functions.php:197
+msgid "Contact Form 7"
+msgstr ""
+
+#: functions.php:203
+msgid "King Composer - Page Builder"
+msgstr ""
+
+#: functions.php:210
+msgid "Revolution Slider"
+msgstr ""
+
+#: functions.php:217
+msgid "Wpopal Themer For Themes"
+msgstr ""
+
+#: functions.php:224
+msgid "Opal Transport"
+msgstr ""
+
+#: functions.php:231
+msgid "Calculated Fields Form"
+msgstr ""
+
+#: functions.php:237
+msgid "YITH WooCommerce Wishlist"
+msgstr ""
+
+#: functions.php:255
+msgid "Sidebar Default"
+msgstr ""
+
+#: functions.php:257 functions.php:268 functions.php:279 functions.php:290 
+#: functions.php:300 functions.php:311 functions.php:322
+msgid "Appears on posts and pages in the sidebar."
+msgstr ""
+
+#: functions.php:266
+msgid "Newsletter"
+msgstr ""
+
+#: functions.php:277
+msgid "Vertical Menu"
+msgstr ""
+
+#: functions.php:288
+msgid "Left Sidebar"
+msgstr ""
+
+#: functions.php:298
+msgid "Right Sidebar"
+msgstr ""
+
+#: functions.php:309
+msgid "Blog Left Sidebar"
+msgstr ""
+
+#: functions.php:320
+msgid "Blog Right Sidebar"
+msgstr ""
+
+#: functions.php:331
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:333 functions.php:343 functions.php:353 functions.php:363 
+#: functions.php:373
+msgid "Appears in the footer section of the site."
+msgstr ""
+
+#: functions.php:341
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:351
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:361
+msgid "Footer 4"
+msgstr ""
+
+#: functions.php:371
+msgid "Footer 5"
+msgstr ""
+
+#: functions.php:382
+msgid "Mass Footer Body"
+msgstr ""
+
+#: functions.php:384
+msgid "Appears in the end of footer section of the site."
+msgstr ""
+
+#: functions.php:393
+msgid "Custom Service"
+msgstr ""
+
+#: functions.php:395 functions.php:405 functions.php:416
+msgid "Appears in the header right section of the site."
+msgstr ""
+
+#: functions.php:403
+msgid "Header socials"
+msgstr ""
+
+#: functions.php:414
+msgid "Header Information"
+msgstr ""
+
+#. Translators: If there are characters in your language that are not
+#. supported by Lora, translate this to 'off'. Do not translate
+#. into your own language.
+#: functions.php:440
+msgctxt "Hind font: on or off"
+msgid "on"
+msgstr ""
+
+#. Translators: If there are characters in your language that are not
+#. supported by Open Sans, translate this to 'off'. Do not translate
+#. into your own language.
+#: functions.php:446
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:448
+msgctxt "Pay fair font: on or off"
+msgid "on"
+msgstr ""
+
+#: header-absolute.php:77 header-v2.php:70 header.php:69 inc/template.php:630
+msgid "Search"
+msgstr ""
+
+#: image.php:65
+msgid "Previous Image"
+msgstr ""
+
+#: image.php:66
+msgid "Next Image"
+msgstr ""
+
+#: list_comments.php:30 inc/function-post.php:178
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: list_comments.php:31 inc/function-post.php:179
+msgid " - Edit"
+msgstr ""
+
+#: list_comments.php:32 inc/function-post.php:180
+msgid " - Reply"
+msgstr ""
+
+#: list_comments.php:37 inc/function-post.php:185
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: search.php:20
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:17
+msgid "Search..."
+msgstr ""
+
+#: sidebar-offcanvas.php:7
+msgid "Menu"
+msgstr ""
+
+#: sidebar-static-left.php:17
+msgid "Please drag and drop widget on this position Static Left"
+msgstr ""
+
+#: tag.php:30
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: taxonomy-post_format.php:30
+msgid "Asides"
+msgstr ""
+
+#: taxonomy-post_format.php:33
+msgid "Images"
+msgstr ""
+
+#: taxonomy-post_format.php:36
+msgid "Videos"
+msgstr ""
+
+#: taxonomy-post_format.php:39
+msgid "Audio"
+msgstr ""
+
+#: taxonomy-post_format.php:42
+msgid "Quotes"
+msgstr ""
+
+#: taxonomy-post_format.php:45
+msgid "Links"
+msgstr ""
+
+#: taxonomy-post_format.php:48
+msgid "Galleries"
+msgstr ""
+
+#: taxonomy-post_format.php:51
+msgid "Archives"
+msgstr ""
+
+#: inc/function-post.php:101
+msgid "%d Article"
+msgid_plural "%d Articles"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/function-post.php:207
+msgid "Previous"
+msgstr ""
+
+#: inc/function-post.php:207
+msgid "Next"
+msgstr ""
+
+#: inc/function-post.php:215
+msgid "Showing the single result"
+msgstr ""
+
+#: inc/function-post.php:217
+msgid "Showing all %d results"
+msgstr ""
+
+#: inc/function-post.php:219
+msgctxt "%1$d = first, %2$d = last, %3$d = total"
+msgid "Showing %1$d to %2$d of %3$d results"
+msgstr ""
+
+#: inc/template-tags.php:50
+msgid "&larr; Previous"
+msgstr ""
+
+#: inc/template-tags.php:51
+msgid "Next &rarr;"
+msgstr ""
+
+#: inc/template-tags.php:58
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/template-tags.php:85
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:89
+msgid "Published In"
+msgstr ""
+
+#: inc/template-tags.php:91
+msgid "Previous Post"
+msgstr ""
+
+#: inc/template-tags.php:92
+msgid "Next Post"
+msgstr ""
+
+#: inc/template-tags.php:109
+msgid "Sticky"
+msgstr ""
+
+#: inc/template-tags.php:268
+msgid "Related post"
+msgstr ""
+
+#: inc/template.php:454
+msgid "Page %s"
+msgstr ""
+
+#: inc/template.php:493 inc/template.php:525
+msgid "Blog"
+msgstr ""
+
+#: inc/template.php:556
+msgid "Search page"
+msgstr ""
+
+#: inc/template.php:559
+msgid "Posts tagged"
+msgstr ""
+
+#: inc/template.php:562
+msgid "Author pages "
+msgstr ""
+
+#: inc/template.php:565
+msgid "Error 404"
+msgstr ""
+
+#: inc/template.php:604
+msgid "Proudly powered by %s. Developed by %s"
+msgstr ""
+
+#: inc/template.php:626
+msgid "What do you need..."
+msgstr ""
+
+#: inc/template.php:652
+msgid "Job"
+msgstr ""
+
+#: inc/template.php:655
+msgid "Enter Job example CEO, CTO"
+msgstr ""
+
+#: inc/template.php:659 woocommerce/single-product-reviews.php:117
+msgid "Email"
+msgstr ""
+
+#: inc/template.php:662
+msgid "Enter Email example: admin@admin"
+msgstr ""
+
+#: inc/template.php:668
+msgid "Phone Number"
+msgstr ""
+
+#: inc/template.php:677
+msgid "Google Plus Link"
+msgstr ""
+
+#: inc/template.php:680
+msgid "Enter google"
+msgstr ""
+
+#: inc/template.php:684
+msgid "Facebook Link"
+msgstr ""
+
+#: inc/template.php:687
+msgid "Enter facebook"
+msgstr ""
+
+#: inc/template.php:691
+msgid "Twitter"
+msgstr ""
+
+#: inc/template.php:694
+msgid "Enter Twitter"
+msgstr ""
+
+#: inc/template.php:698
+msgid "Printest"
+msgstr ""
+
+#: inc/template.php:701
+msgid "Enter pinterest"
+msgstr ""
+
+#. Name of the template
+msgid "Contributor"
+msgstr ""
+
+#. Name of the template
+msgid "Full Width Page"
+msgstr ""
+
+#. Name of the template
+msgid "Main Left Sidebar"
+msgstr ""
+
+#: woocommerce/add-to-wishlist-button.php:13
+msgid "Add to wishlist"
+msgstr ""
+
+#: woocommerce/content-product-inner-list.php:63 
+#: woocommerce/content-product-inner-list.php:65 
+#: woocommerce/content-product-inner.php:37
+msgid "Add to compare"
+msgstr ""
+
+#: woocommerce/content-product-inner-list.php:71 
+#: woocommerce/content-product-inner-list.php:73 
+#: woocommerce/content-product-inner.php:44 
+#: woocommerce/content-product-inner.php:45
+msgid "Quick view"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:29 
+#: woocommerce/single-product-reviews.php:76
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:35
+msgid "Customers review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:40
+msgid "%s ratings"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:46
+msgid "Star"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:61
+msgid "Rate it!"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:62
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:63
+msgid "Write A Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:74
+msgid "%s review for %s"
+msgid_plural "%s reviews for %s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:97
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:110
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:110
+msgid "Be the first to review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:111
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:115
+msgid "Name"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:120
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:127
+msgid "Your Rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:129
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:130
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:131
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:132
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:133
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:134
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:139
+msgid "Your Review"
+msgstr ""
+
+#: page-templates/parts/sharebox.php:21
+msgid "Share on facebook"
+msgstr ""
+
+#: page-templates/parts/sharebox.php:28
+msgid "Share on Twitter"
+msgstr ""
+
+#: page-templates/parts/sharebox.php:35
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: page-templates/parts/sharebox.php:42
+msgid "Share on Tumblr"
+msgstr ""
+
+#: page-templates/parts/sharebox.php:50
+msgid "Share on Google plus"
+msgstr ""
+
+#: page-templates/parts/sharebox.php:58
+msgid "Share on Pinterest"
+msgstr ""
+
+#: page-templates/parts/sharebox.php:65
+msgid "Email to a Friend"
+msgstr ""
+
+#: page-templates/parts/vertical.php:2
+msgid "All Category"
+msgstr ""
+
+#: woocommerce/cart/cart.php:30
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:31
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:32
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:33
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:50 woocommerce/cart/mini-cart.php:56
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:79
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:124
+msgid "Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:124
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:124
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:130
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:41
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: woocommerce/cart/mini-cart-button-market-v1.php:7 
+#: woocommerce/cart/mini-cart-button.php:7
+msgid "View your shopping cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart-button-market-v1.php:10 
+#: woocommerce/cart/mini-cart-button.php:10
+msgid "Cart: "
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:73
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:81
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:86
+msgid "View Cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:87
+msgid "Checkout"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:52
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:32
+msgid "Shipping Address"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:38
+msgid "Ship to a different address?"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:63
+msgid "Additional Information"
+msgstr ""
+
+#: woocommerce/global/breadcrumb.php:19
+msgid "Shop"
+msgstr ""
+
+#: woocommerce/loop/add-to-cart.php:20
+msgid "Add to cart"
+msgstr ""
+
+#: woocommerce/single-product/related.php:48
+msgid "Related Products"
+msgstr ""
+
+#: woocommerce/single-product/review.php:30
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: woocommerce/single-product/review.php:36
+msgid "verified owner"
+msgstr ""
+
+#: woocommerce/single-product/review.php:43
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: woocommerce/single-product/review.php:44
+msgid "out of 5"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:44
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: inc/vendors/kingcomposer/functions.php:24
+msgid "Photo"
+msgstr ""
+
+#: inc/vendors/kingcomposer/functions.php:35
+msgid "Description"
+msgstr ""
+
+#: inc/vendors/kingcomposer/functions.php:37
+msgid "The text description for your page."
+msgstr ""
+
+#: inc/vendors/kingcomposer/functions.php:51
+msgid "Give Report"
+msgstr ""
+
+#: inc/vendors/kingcomposer/functions.php:54
+msgid "Elements"
+msgstr ""
+
+#: inc/vendors/kingcomposer/functions.php:60 
+#: inc/vendors/kingcomposer/functions.php:123
+msgid "Options"
+msgstr ""
+
+#: inc/vendors/kingcomposer/functions.php:62
+msgid ""
+"Repeat this fields with each item created, Each item corresponding Pie "
+"element."
+msgstr ""
+
+#: inc/vendors/kingcomposer/functions.php:63
+msgid "Add new Pie and doughnut charts"
+msgstr ""
+
+#: inc/vendors/kingcomposer/functions.php:68
+msgid "Value"
+msgstr ""
+
+#: inc/vendors/kingcomposer/functions.php:70
+msgid "Enter targeted value of the bar (From 1 to 100)."
+msgstr ""
+
+#: inc/vendors/kingcomposer/functions.php:80
+msgid "Value Color"
+msgstr ""
+
+#: inc/vendors/kingcomposer/functions.php:82
+msgid "Color of targeted value text."
+msgstr ""
+
+#: inc/vendors/kingcomposer/functions.php:86
+msgid "Label"
+msgstr ""
+
+#: inc/vendors/kingcomposer/functions.php:88
+msgid "Enter text used as title of the bar."
+msgstr ""
+
+#: inc/vendors/kingcomposer/functions.php:96
+msgid "Wrapper class"
+msgstr ""
+
+#: inc/vendors/kingcomposer/functions.php:107
+msgid "TimeLife"
+msgstr ""
+
+#: inc/vendors/kingcomposer/functions.php:116 
+#: inc/vendors/kingcomposer/functions.php:145
+msgid "Title"
+msgstr ""
+
+#: inc/vendors/kingcomposer/functions.php:118
+msgid "This is text title. Leave blank if no title is needed."
+msgstr ""
+
+#: inc/vendors/kingcomposer/functions.php:125
+msgid ""
+"Repeat this fields with each item created, Each item corresponding "
+"processbar element."
+msgstr ""
+
+#: inc/vendors/kingcomposer/functions.php:126
+msgid "Add new progress bar"
+msgstr ""
+
+#: inc/vendors/kingcomposer/functions.php:130
+msgid "Year"
+msgstr ""
+
+#: inc/vendors/kingcomposer/functions.php:132
+msgid "Enter value of bar."
+msgstr ""
+
+#: inc/vendors/kingcomposer/functions.php:137
+msgid "Day"
+msgstr ""
+
+#: inc/vendors/kingcomposer/functions.php:139 
+#: inc/vendors/kingcomposer/functions.php:147 
+#: inc/vendors/kingcomposer/functions.php:154
+msgid "Enter text used as title of bar."
+msgstr ""
+
+#: inc/vendors/kingcomposer/functions.php:152
+msgid "Content"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions.php:65 
+#: inc/vendors/woocommerce/functions.php:69
+msgid "Wishlist"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions.php:178
+msgid "Grid"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions.php:179
+msgid "List"
+msgstr ""
+
+#. Name of the theme
+msgid "Jets"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"The Jets theme for WordPress by ThemeLexus.Com and Based On <a "
+"href=\"http://bit.ly/opalwp\">Opal Framework</a> is a fully responsive theme "
+"that looks great on any device. That's the best for any kind of online "
+"shoping sites."
+msgstr ""
+
+#. URI of the theme
+msgid "http://www.themelexus.com?theme=jets"
+msgstr ""
+
+#. Author of the theme
+msgid "ThemeLexus Team"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://www.themelexus.com"
+msgstr ""

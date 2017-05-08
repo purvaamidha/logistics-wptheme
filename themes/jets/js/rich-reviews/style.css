@@ -1,0 +1,24 @@
+ .animated {
+    -webkit-transition: height 0.2s;
+    -moz-transition: height 0.2s;
+    transition: height 0.2s;
+}
+
+.review-form .form_table{
+	width: 100%;
+}
+
+.opal-review-item .testimonial_group .testimonial {
+    width: 100%!important;
+}
+
+.stars
+{
+    margin: 20px 0;
+    font-size: 24px;
+    color: #d17581;
+}
+
+.total-review .txt-total {
+	color: #3085c7;
+}

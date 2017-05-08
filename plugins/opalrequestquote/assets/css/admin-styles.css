@@ -1,0 +1,62 @@
+.opalrequestquote-subfield{
+  clear: both;
+}
+.opalrequestquote-subfield .cmb-repeatable-grouping  .cmb-row{
+ 
+   float: left; 
+   width: 40%;
+}
+.opalrequestquote-subfield .cmb-repeatable-grouping  .cmb-remove-field-row{
+  float: right;
+  width: 20%!important;
+}
+.opalrequestquote-subfield .cmb-repeatable-grouping   input{
+   width: 98%;
+   max-width: 98%;
+}
+.opal-label {
+  border-radius: 3px;
+    display: inline-block;
+    font-weight: 700;
+    padding: 2px 8px;
+    vertical-align: baseline;
+}
+.opalrequestquote_settings .cmb-th { 
+  width: 20%!important;
+}
+
+.opalrequestquote_settings .cmb-td { 
+  width: 76%!important;
+}
+.opalrequestquote_settings .tags-description{
+  margin-left: 28%;
+  margin-right: -28%; 
+}
+.opalrequestquote_settings .rtb-template-tags-box {
+  background: #fff none repeat scroll 0 0;
+  border-left: 4px solid #2ea2cc;
+  box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.1);
+  margin-top: 0.5em;
+  padding: 1em;
+  margin-left: 28%;
+  margin-right: -28%;
+    
+}
+.opalrequestquote_settings .rtb-template-tags-box strong {
+  display: inline-block;
+  min-width: 8em;
+}
+#directions_map{
+  margin: 15px 0 15px 0;
+  height: 350px;
+}
+#opal_requestquote_movingon {
+    background-image: url("../img/calendar-512.png");
+    background-repeat: no-repeat;
+    background-position: right 0px;
+    background-size: 30px 30px;
+    width: 140px;
+}
+.directions-message{
+  color: red;
+}

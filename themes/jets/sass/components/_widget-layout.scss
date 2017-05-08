@@ -1,0 +1,100 @@
+/* block */
+
+.#{$block-selector} {
+    margin-bottom: $block-module-margin-bottom;
+    position: relative;
+    .#{$block-heading-selector}{
+        font-size: 18px;
+        position: relative;
+        margin-top: 0;
+        @include rtl-padding-left(15px);
+        &:before{
+            content: "";
+            position: absolute;
+            @include rtl-left(0);
+            width: 5px;
+            height: 15px;
+            background: $theme-color;
+            top: 0;
+        } 
+    }
+    .#{$block-content-selector} {
+    }
+    /* block styles */
+    &.nopadding{
+        .#{$block-content-selector}{
+            padding:0;
+            margin: 0;
+        }
+    }
+    &.widget_revslider{
+        margin: 0;
+    }
+}
+
+/**
+ * Styling Css for widgets in Sidebar Left Static
+ */
+.#{$block-prefix}-static{
+    .#{$block-heading-selector}{
+        color:#FFFFFF;
+    }
+    ul li { border:none }
+}
+/* 
+.sidebar{
+    .widget{
+        .widget-title,.widgettitle{
+        }
+        ul.product_list_widget{
+            padding: 10px 0;
+        }
+    }
+}
+ */
+/**
+ * Styling Css for widgets in footer layout
+ */
+.opal-footer{
+    font-weight: 300;
+    .#{$block-selector} { 
+        .#{$block-heading-selector}{
+            color: $white;
+            font-family: $font-family-base;
+            font-size: 14px;
+            font-weight: 600;
+            margin-bottom: 40px;
+            @include rtl-padding-left(0);
+            &:before{
+                content: none;
+            }
+        }
+    } 
+    strong{
+        color: #fff;
+        font-weight: 300;
+        @include rtl-margin-right(5px);
+    } 
+    ul {
+        li{
+            border: none!important;
+            padding: 3px 0;
+        }
+    }
+    .widget_recent_entries{
+        a {
+            color: white;
+            &:hover{
+                color: $theme-color;
+            }
+        }
+    }
+    .widget_calendar caption{
+        color: white;
+    }
+    .opal-footer-profile{
+        .widget{
+            margin-bottom: 0;
+        }
+    }
+}
